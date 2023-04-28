@@ -8,4 +8,4 @@ The references for this implementation are:
 [5] L. R. Knudsen, M. J. B. Robshaw, The Block Cipher Companion, Springer, 2011.
 [6] Muresan, R, ENGG4560 Laboratory Tutorial My Asynchronous AES Coprocessor Design.pdf
 
-To understand the implementation review reference [6] found in this repository. 
+To understand the implementation review reference [6] found in this repository: ENGG4560 Laboratory Tutorial My Asynchronous AES Coprocessor Design.pdf
