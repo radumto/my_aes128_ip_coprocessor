@@ -38,7 +38,7 @@ module my_aes128_ip (
 */
 			
 	assign aps_s0_pready = 1'b1; // no wait states required
-	...
+//	... hardware interface code goes here ...
 	
 // Follow the laboratory manual information for implementing the hardware interface	
 	
